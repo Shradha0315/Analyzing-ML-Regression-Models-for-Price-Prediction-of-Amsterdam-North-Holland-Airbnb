@@ -35,3 +35,12 @@ RMSE (Root Mean Squared Error) was used as an evaluation factor for all the 3 mo
 
 4-fold validation technique was implemented to verify the accuracy of XG Boost Regressor model. The result shows low standard deviation (2.38) and RMSE (28.046).
 
+## References:
+[1]	Choudhary, Paridhi, Aniket Jain and Rahul Baijal. “Unravelling Airbnb Predicting Price for New Listing.” arXiv: General Finance (2018): n. pag.
+[2]	Kalehbasti, Pouya Rezazadeh, Liubov Nikolenko and Hoormazd Rezaei. “Airbnb Price Prediction Using Machine Learning and Sentiment Analysis.” CD-MAKE (2021).
+[3]	A. Garlapati, K. Garlapati, N. Malisetty, D. R. Krishna and G. Narayana, "Price Listing Predictions and Forthcoming Analysis of Airbnb," 2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT), 2021, pp. 1-7, doi: 10.1109/ICCCNT51525.2021.9579773.
+[4]	Zhang, Zhihua et al. “Key Factors Affecting the Price of Airbnb Listings: A Geographically Weighted Approach.” Sustainability 9 (2017): 1635.
+[5]	http://insideairbnb.com/get-the-data.html 
+[6]	https://github.com/andresfmora/Airbnb-Sentiment_Analysis/blob/master/AirBNB.ipynb 
+[7]	https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection
+[8]	https://www.kaggle.com/saurabhwadhawan/statistical-analysis-visualization-on-ny-airbnb 
